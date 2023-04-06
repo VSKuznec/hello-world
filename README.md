@@ -11,9 +11,9 @@ We already know the next things:
 + What is GitHub
 + What is Markdown
 + What is Commit
++ Sending to a remote repository (Push)
++ Update local repository (Pull / Fetch)
 
 ### What else should we study
 + Branch
-+ Sending to a remote repository (Push)
-+ Update local repository (Pull / Fetch)
 + Merge
