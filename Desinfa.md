@@ -1,1 +1,1 @@
-No reminders to save changes
+No reminders to save changes (ctrl+s)
